@@ -156,6 +156,8 @@ This list of tools provide the capabilities necessary for finding security anoma
 * [moloch](https://github.com/aol/moloch)
 * [osxcollector](https://github.com/Yelp/osxcollector)
 * [mig](https://github.com/mozilla/mig)
+* [Sysdig](http://www.sysdig.org)
+* [Falco](https://www.sysdig.org/falco)
 
 ## Testing
 Testing is an essential element of a DevSecOps program because it helps to prepare teams for Rugged operations and to determine security defects before they can be exploited.
