@@ -1,4 +1,5 @@
 # Awesome DevSecOps   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2Fawesome-devsecops.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2Fawesome-devsecops?ref=badge_shield)
 
 Inspired by the awesome-* trend on GitHub. This is a collection of documents, presentations, videos, training materials, tools, services and general leadership that support the DevSecOps mission.  These are the essential building blocks and tidbits that can help you to arrange for a DevSecOps experiment or to help you build out your own DevSecOps program.
 
@@ -236,3 +237,7 @@ One of the greatest changes you can make in your organization is boundaryless co
 * [Slack](https://slack.com)
 * [HipChat](https://hipchat.com)
 * [Riot](https://riot.im/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2Fawesome-devsecops.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2Fawesome-devsecops?ref=badge_large)
